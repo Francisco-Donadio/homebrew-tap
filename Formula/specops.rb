@@ -1,8 +1,8 @@
 class Specops < Formula
   desc "AI Functional Analyst CLI for product and ticket workflows"
   homepage "https://github.com/francisco-donadio/specops"
-  url "https://registry.npmjs.org/specops/-/specops-0.1.0.tgz"
-  sha256 "5fdde74915faab6ed2a89449cc6ca912094cdd33501deb725c64566110aec3f2"
+  url "https://registry.npmjs.org/@francisco-donadio/specops/-/specops-0.1.1.tgz"
+  sha256 "df3656959b72debb15fc5ea1d77f93d7a2f8b95e99a8d6c8ce3ee4af5b5564b7"
   license "MIT"
 
   depends_on "node"
